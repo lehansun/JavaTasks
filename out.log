@@ -17137,3 +17137,16 @@ java.lang.NullPointerException
 2020-03-24 23:11:07 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
 2020-03-24 23:11:07 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
 2020-03-24 23:11:07 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-03-28 16:07:19 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-03-28 16:07:19 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.38 ----------
+
+2020-03-28 16:07:19 INFO  ApacheHttpClient.createAsyncHttpClient(143) - 1 proxies selected. Type: DIRECT
+2020-03-28 16:07:20 INFO  ApacheHttpClient.<init>(94) - ApacheHttpClient was successfully instantiated.
+2020-03-28 16:07:20 INFO  ApacheHttpClient.testConnection(202) - responseCode = 200
+2020-03-28 16:07:20 INFO  ApacheHttpClient.testConnection(217) - result = true
+2020-03-28 16:07:22 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-03-28 16:07:22 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-03-28 16:07:22 INFO  ApacheHttpClient.refreshUserInfo(302) - responseCode = 200
+2020-03-28 16:07:22 INFO  ApacheHttpClient.refreshUserInfo(308) - User information received.
+2020-03-28 16:07:23 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2020-03-28 16:07:23 INFO  AbstractRestApiClient.startService(71) - EventsService started.
