@@ -13,14 +13,6 @@
   <component name="FavoritesManager">
     <favorites_list name="JavaRushTasks" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>internship</find>
@@ -35,7 +27,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectId" id="1RtByEoFxKCABzEdelqkmQdZIcW" />
+  <component name="ProjectId" id="1aDnFEaNL9z2mgW7jDNMcN49hW4" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -44,22 +36,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last.edited.regexp" value="" />
+    <property name="last.edited.regexp" value=" " />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -115,11 +107,13 @@
       </Profilers>
       <method />
     </configuration>
-    <configuration default="true" type="Applet">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <module />
+      <method />
     </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -371,7 +365,7 @@
       <method />
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1702.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1911.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -380,7 +374,16 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task15.task1519.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1912.Solution" />
+      <module name="2.JavaCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task15.task1525.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -389,16 +392,7 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1907.Solution" />
-      <module name="2.JavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1908.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task15.task1528.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -407,18 +401,9 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1909.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1910.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task18.task1820.Solution" />
-      <module name="2.JavaCore" />
-      <option name="PROGRAM_PARAMETERS" value="D:\\Алексей\\test1.txt" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -493,14 +478,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="" />
@@ -536,49 +522,29 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" width="928" height="683" key="#Intentions" timestamp="1586195909259">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1586285980965">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" width="928" height="683" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1586195909259" />
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585080480186">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586285980965" />
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586279012069">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585080480186" />
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1586198195218">
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1586279012069" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1586286060649">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586198195218" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586193915987">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586286060649" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1586286060649">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586193915987" />
-    <state width="1345" height="131" key="GridCell.Tab.0.bottom" timestamp="1586201035681">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586286060649" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1586286060649">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="131" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586201035681" />
-    <state width="1345" height="131" key="GridCell.Tab.0.center" timestamp="1586201035681">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586286060649" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1586286060649">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="131" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586201035681" />
-    <state width="1345" height="131" key="GridCell.Tab.0.left" timestamp="1586201035681">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="131" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586201035681" />
-    <state width="1345" height="131" key="GridCell.Tab.0.right" timestamp="1586201035681">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="131" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586201035681" />
-    <state x="263" y="99" key="IDE.errors.dialog" timestamp="1586198647422">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="263" y="99" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1586198647422" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586189310444">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586189310444" />
-    <state x="350" y="0" key="new project wizard" timestamp="1586193920479">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="350" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586193920479" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586286060649" />
   </component>
 </project>
