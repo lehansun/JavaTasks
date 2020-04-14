@@ -20945,3 +20945,569 @@ java.lang.NullPointerException
 2020-04-12 22:38:17 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
 2020-04-12 22:38:17 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
 2020-04-12 22:38:17 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-13 19:15:59 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-04-13 19:15:59 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.38 ----------
+
+2020-04-13 19:15:59 INFO  ApacheHttpClient.createAsyncHttpClient(143) - 1 proxies selected. Type: DIRECT
+2020-04-13 19:15:59 INFO  ApacheHttpClient.<init>(94) - ApacheHttpClient was successfully instantiated.
+2020-04-13 19:16:00 INFO  ApacheHttpClient.testConnection(202) - responseCode = 200
+2020-04-13 19:16:00 INFO  ApacheHttpClient.testConnection(217) - result = true
+2020-04-13 19:16:00 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:01 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:01 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:01 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:01 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:01 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:01 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:01 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:01 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:01 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:04 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 19:16:04 INFO  ApacheHttpClient.refreshUserInfo(302) - responseCode = 200
+2020-04-13 19:16:04 INFO  ApacheHttpClient.refreshUserInfo(308) - User information received.
+2020-04-13 19:16:04 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2020-04-13 19:16:04 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-04-13 19:33:01 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-13 19:33:01 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-13 19:34:36 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 200
+2020-04-13 19:34:45 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-13 19:35:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:36:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:37:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:38:34 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:39:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:40:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:41:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:42:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:43:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:44:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:45:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:46:34 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:47:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:48:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:49:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:50:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:51:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:52:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:53:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:54:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:55:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:56:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:57:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:58:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 19:59:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:00:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:01:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:02:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:03:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:04:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:05:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:06:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:07:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:08:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:09:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:10:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:11:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:12:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:13:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:13:17 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-13 20:13:17 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-13 20:13:17 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-13 20:13:23 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2020-04-13 20:14:08 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:15:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:16:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:17:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:18:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:19:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:19:18 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-13 20:19:18 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-13 20:19:18 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-13 20:19:29 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2020-04-13 20:19:30 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-13 20:20:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:20:30 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-13 20:20:30 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-13 20:20:32 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 200
+2020-04-13 20:20:48 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-13 20:21:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:22:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:23:12 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:24:12 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:25:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:25:59 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-13 20:26:00 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-13 20:26:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:27:35 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:28:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:29:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:30:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:31:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:32:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:33:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:34:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:35:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:36:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:37:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:38:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:39:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:40:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:41:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:42:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:43:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:44:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:45:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:46:08 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:47:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:48:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:49:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:50:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:51:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:52:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:53:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:54:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:55:07 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:56:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:57:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:58:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 20:59:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:00:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:01:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:02:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:03:12 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:04:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:05:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:06:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:07:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:08:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:09:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:10:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:11:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:12:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:13:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:14:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:15:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:16:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:17:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:18:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:19:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:20:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:21:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:22:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:23:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:24:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:25:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:26:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:27:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:28:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:29:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:30:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:31:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:32:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:33:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:34:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:35:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:36:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:37:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:38:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:39:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:40:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:41:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:42:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:43:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:44:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:45:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:46:07 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:47:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:48:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:49:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:50:06 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:51:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:52:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:53:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:54:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:55:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:56:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:57:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:58:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 21:59:12 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:00:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:01:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:02:12 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:03:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:04:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:05:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:05:24 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-13 22:05:24 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-13 22:05:24 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-13 22:05:27 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2020-04-13 22:05:27 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-13 22:06:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:07:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:08:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:09:07 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:10:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:11:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:12:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:13:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:14:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:15:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:16:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:17:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:18:08 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:19:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:20:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:21:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:22:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:23:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:24:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:25:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:26:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:27:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:28:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:29:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:30:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:31:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:32:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:33:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:34:05 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:35:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:36:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:37:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:38:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:39:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:40:04 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:40:30 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-04-13 22:40:30 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-13 22:40:30 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-13 22:44:38 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-04-13 22:44:38 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.38 ----------
+
+2020-04-13 22:44:39 INFO  ApacheHttpClient.createAsyncHttpClient(143) - 1 proxies selected. Type: DIRECT
+2020-04-13 22:44:39 INFO  ApacheHttpClient.<init>(94) - ApacheHttpClient was successfully instantiated.
+2020-04-13 22:44:39 INFO  ApacheHttpClient.testConnection(202) - responseCode = 200
+2020-04-13 22:44:39 INFO  ApacheHttpClient.testConnection(217) - result = true
+2020-04-13 22:44:39 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-13 22:44:40 INFO  ApacheHttpClient.refreshUserInfo(302) - responseCode = 200
+2020-04-13 22:44:40 INFO  ApacheHttpClient.refreshUserInfo(308) - User information received.
+2020-04-13 22:44:40 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2020-04-13 22:44:40 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-04-13 22:44:52 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-13 22:45:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:46:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:47:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:48:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:49:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:50:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:51:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:52:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:53:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:54:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:55:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:56:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:57:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:58:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 22:59:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 23:00:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 23:01:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 23:02:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 23:03:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 23:04:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 23:05:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 23:06:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 23:07:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 23:08:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 23:09:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 23:10:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 23:11:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 23:12:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 23:13:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-13 23:14:11 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-04-13 23:14:12 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-14 20:39:22 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-04-14 20:39:22 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.38 ----------
+
+2020-04-14 20:39:22 INFO  ApacheHttpClient.createAsyncHttpClient(143) - 1 proxies selected. Type: DIRECT
+2020-04-14 20:39:22 INFO  ApacheHttpClient.<init>(94) - ApacheHttpClient was successfully instantiated.
+2020-04-14 20:39:23 INFO  ApacheHttpClient.testConnection(202) - responseCode = 200
+2020-04-14 20:39:23 INFO  ApacheHttpClient.testConnection(217) - result = true
+2020-04-14 20:39:23 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 20:39:24 INFO  ApacheHttpClient.refreshUserInfo(302) - responseCode = 200
+2020-04-14 20:39:24 INFO  ApacheHttpClient.refreshUserInfo(308) - User information received.
+2020-04-14 20:39:24 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2020-04-14 20:39:24 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-04-14 20:39:42 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-14 20:40:22 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-14 20:40:22 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-14 20:40:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:40:43 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 200
+2020-04-14 20:40:43 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 200
+2020-04-14 20:40:45 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-14 20:40:45 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-14 20:41:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:42:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:43:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:44:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:45:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:46:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:47:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:48:54 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:49:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:50:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:51:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:52:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:53:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:54:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:55:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:56:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:57:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:58:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 20:59:27 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:00:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:01:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:02:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:03:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:04:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:05:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:06:27 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:07:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:08:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:09:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:10:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:11:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:12:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:13:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:14:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:15:27 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:16:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:17:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:18:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:19:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:20:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:21:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:22:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:23:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:24:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:25:54 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:26:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:27:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:28:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:29:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:30:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:31:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:32:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:33:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:34:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:35:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:36:39 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:38:01 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:38:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:39:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:40:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:41:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:42:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:43:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:44:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:45:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:46:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:47:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:48:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:49:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:50:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:51:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:52:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:53:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:54:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:55:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:56:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:57:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:58:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 21:59:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:00:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:01:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:02:31 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:03:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:04:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:05:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:06:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:07:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:08:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:09:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:10:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:11:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:12:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:13:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:14:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:15:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:16:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:17:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:18:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:19:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:20:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:21:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:22:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:23:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:24:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:25:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:26:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:27:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:28:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:29:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:30:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:30:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:31:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:31:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:32:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:32:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:33:54 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:33:54 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:34:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:34:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:35:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:35:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:36:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:36:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:37:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:37:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:38:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:38:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:39:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:39:31 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:40:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:40:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:41:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:41:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:42:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:42:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:43:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:43:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:44:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:44:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:45:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:45:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:46:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:46:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:47:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:47:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:48:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:48:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:49:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:49:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:50:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:50:32 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:51:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:51:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:52:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:52:27 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:53:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:53:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:53:26 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-14 22:53:27 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-14 22:54:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:54:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:55:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:55:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:56:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:56:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:57:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:57:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:58:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:58:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:59:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 22:59:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:00:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:00:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:01:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:01:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:02:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:02:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:03:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:03:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:04:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:04:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:05:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:05:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:06:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:06:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:07:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:07:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:08:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:08:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:09:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:09:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:10:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:10:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:11:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:11:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:12:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:12:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:13:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:13:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:14:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:14:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:15:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:15:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:16:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:16:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:17:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:17:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:18:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:18:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:19:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:19:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:20:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:20:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:21:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:21:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:22:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:22:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:23:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:23:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:24:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:24:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:25:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:25:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:26:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:26:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:27:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:27:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:28:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:28:24 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-14 23:28:54 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-14 23:28:54 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-14 23:28:54 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-14 23:28:57 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2020-04-14 23:28:57 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-14 23:29:29 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-14 23:29:29 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-14 23:29:33 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-14 23:29:36 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-14 23:30:04 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-14 23:30:08 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-14 23:30:26 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-14 23:30:29 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-14 23:30:33 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-14 23:30:36 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-14 23:30:40 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-14 23:30:45 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-04-14 23:30:45 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-14 23:30:45 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
