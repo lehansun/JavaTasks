@@ -59,7 +59,7 @@
       <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Beach">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -372,8 +372,8 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="Beach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1714.Beach" />
+    <configuration name="ApplicationContext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1719.ApplicationContext" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -381,8 +381,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Restaurant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1712.Restaurant" />
+    <configuration name="Bankomat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1720.Bankomat" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -391,7 +391,7 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1713.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2001.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -399,8 +399,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1709.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1718.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -409,9 +409,9 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1710.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1722.Solution" />
       <module name="2.JavaCore" />
-      <option name="PROGRAM_PARAMETERS" value="-c Миронов м 15/04/1990" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -512,19 +512,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (5)" />
+      <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.ApplicationContext" />
+      <item itemvalue="Application.Bankomat" />
       <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Restaurant" />
       <item itemvalue="Application.Solution (2)" />
-      <item itemvalue="Application.Beach" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Beach" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Restaurant" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Bankomat" />
+        <item itemvalue="Application.ApplicationContext" />
+        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -579,10 +579,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="69" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1586797884161" />
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1587321045184">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1587401570514">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587321045184" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587401570514" />
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586279012069">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -591,38 +591,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="223" width="430" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1586619413569" />
-    <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1587323381006">
+    <state width="1345" height="138" key="GridCell.Tab.0.bottom" timestamp="1587413315927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587323381006" />
-    <state width="1345" height="223" key="GridCell.Tab.0.center" timestamp="1587323381006">
+    <state width="1345" height="138" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587413315927" />
+    <state width="1345" height="138" key="GridCell.Tab.0.center" timestamp="1587413315926">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587323381006" />
-    <state width="1345" height="223" key="GridCell.Tab.0.left" timestamp="1587323381006">
+    <state width="1345" height="138" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587413315926" />
+    <state width="1345" height="138" key="GridCell.Tab.0.left" timestamp="1587413315926">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587323381006" />
-    <state width="1345" height="223" key="GridCell.Tab.0.right" timestamp="1587323381006">
+    <state width="1345" height="138" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587413315926" />
+    <state width="1345" height="138" key="GridCell.Tab.0.right" timestamp="1587413315927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587323381006" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1587323382312">
+    <state width="1345" height="138" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587413315927" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1587324030227">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587323382312" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1587323382312">
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587324030227" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1587324030226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587323382312" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1587323382311">
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587324030226" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1587324030226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587323382311" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1587323382312">
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587324030226" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1587324030226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587323382312" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587324030226" />
     <state x="263" y="99" key="IDE.errors.dialog" timestamp="1587321747545">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -639,10 +639,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="259" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1586682750720" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1587321182890">
+    <state x="339" y="162" key="run.anything.popup" timestamp="1587409806458">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1587321182890" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1587409806458" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -669,16 +669,6 @@
           <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1712/Restaurant.java</url>
           <line>13</line>
           <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1714/Beach.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1714/Beach.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
