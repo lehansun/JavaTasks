@@ -12,17 +12,18 @@ public class Solution {
     public static void main(String[] args) {
         //исправьте outputStream/inputStream в соответствии с путем к вашему реальному файлу
         try {
-            String file = "D:\\Алексей\\test1.txt";
-            BufferedWriter outputStream = new BufferedWriter(new FileWriter(file));
-            BufferedReader inputStream = new BufferedReader(new FileReader(file));
+            File your_file_name = new File("D:\\Алексей\\test1.txt");
+            OutputStream outputStream = new FileOutputStream(your_file_name);
+            InputStream inputStream = new FileInputStream(your_file_name);
 
-            Human ivanov = new Human("Ivanov", new Asset("home", 999_999.99), new Asset("car", 2999.99));
+            Human ivanov = new Human(null, null);
             ivanov.save(outputStream);
             outputStream.flush();
 
             Human somePerson = new Human();
             somePerson.load(inputStream);
             inputStream.close();
+            System.out.println(ivanov.equals(somePerson));
             //check here that ivanov equals to somePerson - проверьте тут, что ivanov и somePerson равны
 
         } catch (IOException e) {
@@ -48,35 +49,6 @@ public class Solution {
             }
         }
 
-        public void save(BufferedWriter writer) throws Exception {
-            if (name != null) {
-                writer.write(name + "\n");
-                writer.flush();
-            }
-
-            String isAssetPresent = assets != null ? "" + assets.size() : "no";
-            writer.write(isAssetPresent + "\n");
-            writer.flush();
-
-            for (Asset asset : assets) {
-                asset.save(writer);
-            }
-            //implement this method - реализуйте этот метод
-        }
-
-        public void load(BufferedReader reader) throws Exception {
-            name = reader.readLine();
-            String isAssetPresent = reader.readLine();
-            if (!isAssetPresent.equals("no")) {
-                //implement this method - реализуйте этот метод
-                for (int i = 0; i < Integer.parseInt(isAssetPresent); i++) {
-                    Asset asset = new Asset().load();
-                    asset.load(reader);
-                    assets.add(asset);
-                }
-            }
-        }
-
         @Override
         public boolean equals(Object o) {
             if (this == o) return true;
@@ -93,6 +65,50 @@ public class Solution {
             int result = name != null ? name.hashCode() : 0;
             result = 31 * result + (assets != null ? assets.hashCode() : 0);
             return result;
+        }
+
+        public void save(OutputStream outputStream) throws Exception {
+            if (name == null) {
+                outputStream.write("no\n".getBytes());//implement this method - реализуйте этот метод
+                outputStream.flush();
+            } else {
+                outputStream.write((name + "\n").getBytes());
+                outputStream.flush();
+            }
+
+            if (assets.isEmpty()) {
+                outputStream.write("0\n".getBytes());
+                outputStream.flush();
+            } else {
+                outputStream.write(("" + assets.size() + "\n").getBytes());
+                outputStream.flush();
+                for (Asset asset : assets) {
+                    outputStream.write((asset.getName() + " ").getBytes());
+                    outputStream.write((asset.getPrice() + "\n").getBytes());
+                }
+            }
+        }
+
+        public void load(InputStream inputStream) throws Exception {
+            BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
+            String data = reader.readLine();
+
+            if (data.equals("no")) {
+                name = null;
+            } else {
+                name = data;
+            }
+
+            data = reader.readLine();
+            int size = Integer.parseInt(data);
+            if (size > 0) {
+                for (int i = 0; i < size; i++) {
+                    data = reader.readLine();
+                    String[] part = data.split(" ");
+                    assets.add(new Asset(part[0], Double.parseDouble(part[1])));
+                }
+            }
+        //implement this method - реализуйте этот метод
         }
     }
 }
