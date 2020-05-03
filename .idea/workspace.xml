@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -54,7 +55,7 @@
       <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -385,8 +386,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2023.Solution" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2026.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -394,8 +395,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2024.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2027.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -507,19 +508,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Degree" />
       <item itemvalue="Application.Sequence" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Sequence" />
         <item itemvalue="Application.Degree" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -586,38 +587,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="223" width="430" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1586619413569" />
-    <state width="1345" height="236" key="GridCell.Tab.0.bottom" timestamp="1588452884860">
+    <state width="1345" height="217" key="GridCell.Tab.0.bottom" timestamp="1588525606280">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="236" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588452884860" />
-    <state width="1345" height="236" key="GridCell.Tab.0.center" timestamp="1588452884860">
+    <state width="1345" height="217" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588525606280" />
+    <state width="1345" height="217" key="GridCell.Tab.0.center" timestamp="1588525606280">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="236" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588452884860" />
-    <state width="1345" height="236" key="GridCell.Tab.0.left" timestamp="1588452884860">
+    <state width="1345" height="217" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588525606280" />
+    <state width="1345" height="217" key="GridCell.Tab.0.left" timestamp="1588525606280">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="236" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588452884860" />
-    <state width="1345" height="236" key="GridCell.Tab.0.right" timestamp="1588452884860">
+    <state width="1345" height="217" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588525606280" />
+    <state width="1345" height="217" key="GridCell.Tab.0.right" timestamp="1588525606280">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="236" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588452884860" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1588371620424">
+    <state width="1345" height="217" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588525606280" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1588518811004">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588371620424" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1588371620424">
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588518811004" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1588518811004">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588371620424" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1588371620423">
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588518811004" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1588518811004">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588371620423" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1588371620424">
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588518811004" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1588518811004">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588371620424" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588518811004" />
     <state x="263" y="99" key="IDE.errors.dialog" timestamp="1587321747545">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -638,10 +639,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="121" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1587668370200" />
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1588415009139">
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1588524736481">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1588415009139" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1588524736481" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588354060940">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -672,6 +673,14 @@
           <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1712/Restaurant.java</url>
           <line>13</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2026/Solution.java</url>
+          <line>6</line>
+          <properties class="com.javarush.task.task20.task2026.Solution" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

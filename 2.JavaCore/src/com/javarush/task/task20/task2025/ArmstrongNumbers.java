@@ -35,15 +35,6 @@ public class ArmstrongNumbers {
         return result;
     }
 
-    //  Метод возвращает сумму цифр массива numbers
-    private static int sum(List<Byte> numbers){
-        int sum = 0;
-        for (Byte b : numbers) {
-            sum+=b;
-        }
-        return sum;
-    }
-
     //    Метод возврачает True, если слово содержит в себе все цифры массива
     private static boolean equals(List<Byte> numbers1, List<Byte> numbers2) {
         if (numbers1.size() != numbers2.size()) {
@@ -96,12 +87,10 @@ public class ArmstrongNumbers {
                                                                                 for (int i1 = i2; i1 < 11; i1++) {
 
                                                                                     line = "" + i19 + i18 + i17 + i16 + i15 + i14 + i13 + i12 + i11 + i10 + i9 + i8 + i7 + i6 + i5 + i4 + i3%10 + i2%10 + i1%10;
-//
                                                                                     if (i1 != 0 || i2 != 0) {
                                                                                         lineNumber = Long.parseLong(line);
                                                                                     }
 
-//                                                                                  New method
                                                                                     writeResult(numbers(lineNumber), armstrong);
                                                                                     if (lineNumber == MAX_VALUE) {
                                                                                         return;
@@ -126,6 +115,4 @@ public class ArmstrongNumbers {
             }
         }
     }
-
-
 }
