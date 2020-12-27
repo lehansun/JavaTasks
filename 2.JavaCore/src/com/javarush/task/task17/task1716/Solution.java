@@ -12,7 +12,7 @@ public class Solution {
         Double d = method3();
     }
 
-    protected void method1(String param1) {
+    protected void method1() {
         Solution solution = new Solution();
         solution.method0();
     }
@@ -35,15 +35,15 @@ public class Solution {
         new StringBuffer().append(param2).append(param2).append(param2);
     }
 
-    public synchronized String method6(int param2) {
+    public synchronized String method6() {
         System.out.println("Thinking....");
-        method7(5e-2);
+        method7();
         sb = new StringBuilder("Got it!.");
         return sb.toString();
     }
 
-    String method7(double param2) {
-        return "" + param2;
+    String method7() {
+        return "" + 0.05;
     }
 
     public static void main(String[] args) {

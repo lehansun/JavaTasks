@@ -6,23 +6,23 @@ package com.javarush.task.task14.task1408;
 
 public class Solution {
     public static void main(String[] args) {
-        Hen hen = HenFactory.getHen(Country.BELARUS);
+        Hen hen = HenFactory.getHen();
         System.out.println(hen.getDescription());
     }
 
     static class HenFactory {
 
-        static Hen getHen(String country) {
+        static Hen getHen() {
             Hen hen = null;
-            if (country.equals(Country.BELARUS)) {
+            if (Country.BELARUS.equals(Country.BELARUS)) {
                 hen = new BelarusianHen();
             }
-            if (country.equals(Country.RUSSIA)) {
+            if (Country.BELARUS.equals(Country.RUSSIA)) {
                 hen = new RussianHen();
-            }if (country.equals(Country.UKRAINE)) {
+            }if (Country.BELARUS.equals(Country.UKRAINE)) {
                 hen = new UkrainianHen();
             }
-            if (country.equals(Country.MOLDOVA)) {
+            if (Country.BELARUS.equals(Country.MOLDOVA)) {
                 hen = new MoldovanHen();
             }
             return hen;

@@ -31,7 +31,7 @@ public class Solution2 {
         return array;
     }
 
-    public static void sort(String[] array) {
+    public static void sort() {
         // напишите тут ваш код
     }
 

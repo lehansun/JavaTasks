@@ -23,7 +23,7 @@ public class Solution {
             synchronized (Iron.class) {
                 Iron iron = takeIron();
                 Clothes clothes = takeClothes();
-                iron(iron, clothes);
+                iron(clothes);
                 returnIron();
             }
         }
@@ -42,7 +42,7 @@ public class Solution {
             return new Clothes("T-shirt");
         }
 
-        protected void iron(Iron iron, Clothes clothes) {
+        protected void iron(Clothes clothes) {
             System.out.println(getName() + " is ironing a " + clothes.name);
         }
     }

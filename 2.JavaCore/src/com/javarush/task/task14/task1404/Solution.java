@@ -22,7 +22,7 @@ public class Solution {
         static Cat getCatByKey(String key) {
             Cat cat = null;
             if ("vaska".equals(key)) {
-                cat = new MaleCat("Василий");
+                cat = new MaleCat();
             } else if ("murka".equals(key)) {
                 cat = new FemaleCat("Мурочка");
             } else if ("kiska".equals(key)) {
@@ -51,8 +51,8 @@ public class Solution {
     }
 
     static class MaleCat extends Cat {
-        MaleCat(String name) {
-            super(name);
+        MaleCat() {
+            super("Василий");
         }
 
         public String toString() {

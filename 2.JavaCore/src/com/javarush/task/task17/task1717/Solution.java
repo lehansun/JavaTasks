@@ -18,13 +18,13 @@ public class Solution {
             }
 
             if (s instanceof Solution) {
-                return this.appendThis((Solution) s);
+                return this.appendThis();
             }
 
         return this.append(s);
     }
 
-    public synchronized Solution appendThis(Solution s) {
+    public synchronized Solution appendThis() {
         //do something here....
         return this;
     }

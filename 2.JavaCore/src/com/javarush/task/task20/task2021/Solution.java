@@ -8,11 +8,11 @@ import java.io.*;
 public class Solution implements Serializable {
 
     public static class SubSolution extends Solution {
-        private void writeObject(ObjectOutputStream outputStream) throws NotSerializableException {
+        private void writeObject() throws NotSerializableException {
             throw new NotSerializableException();
         }
 
-        private void readObject(ObjectInputStream inputStream) throws NotSerializableException {
+        private void readObject() throws NotSerializableException {
             throw new NotSerializableException();
         }
     }

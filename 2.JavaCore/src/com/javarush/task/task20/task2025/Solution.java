@@ -40,6 +40,6 @@ public class Solution {
 //        System.out.println((end.getTime()-start.getTime()));
 
 
-        ArmstrongNumbers.getRecursionSequence(123456789L);
+//        ArmstrongNumbers.getRecursionSequence(123456789L);
     }
 }

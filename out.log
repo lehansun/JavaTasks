@@ -33443,3 +33443,1321 @@ java.lang.NullPointerException
 
 2020-12-13 15:31:16 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
 2020-12-13 15:31:17 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2020-12-13 15:56:50 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2020-12-13 15:56:50 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.44 ----------
+
+2020-12-13 15:56:50 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2020-12-13 15:56:50 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2020-12-13 15:56:50 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2020-12-13 15:56:50 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2020-12-13 15:56:50 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-12-13 15:56:51 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-13 15:57:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-13 15:57:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-13 15:58:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-13 15:58:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-13 16:02:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-13 16:02:17 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-13 16:02:22 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-13 16:36:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-13 16:36:28 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-13 16:36:37 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-13 16:36:38 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-13 16:36:41 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-13 16:36:41 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-13 16:36:43 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-13 16:36:43 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/Алексей/IMAGINATION/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task20
+2020-12-13 16:36:43 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/Алексей/IMAGINATION/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task20/task2028
+2020-12-13 16:36:44 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-13 16:36:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-13 16:37:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-13 16:38:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-13 16:39:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-13 16:40:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-13 16:40:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-13 16:41:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-13 16:41:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-13 16:42:24 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2020-12-13 16:42:25 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-13 16:42:25 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-13 16:42:25 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-13 16:42:25 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-13 16:42:25 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2020-12-14 12:01:35 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2020-12-14 12:01:35 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.44 ----------
+
+2020-12-14 12:01:35 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2020-12-14 12:01:36 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2020-12-14 12:01:36 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2020-12-14 12:01:36 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2020-12-14 12:01:36 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-12-14 12:01:41 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-14 12:01:42 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-14 12:01:51 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-14 12:01:56 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-14 12:02:07 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-14 12:02:07 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/Алексей/IMAGINATION/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task32/task3205
+2020-12-14 12:02:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:03:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:04:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:05:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:06:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:07:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:08:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:09:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:10:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:11:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:12:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:13:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:14:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:15:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:16:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:17:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:18:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:19:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:20:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:21:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:22:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:23:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:24:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:25:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:26:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:27:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:28:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:29:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:30:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:31:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:32:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:33:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:34:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:35:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:36:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:37:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:38:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:39:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:40:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:41:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:42:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:43:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:44:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:45:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:45:46 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-14 12:45:46 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-14 12:45:51 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-14 12:46:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:47:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:48:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:49:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:49:46 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-14 12:49:46 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-14 12:49:48 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-14 12:49:48 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-14 12:50:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 12:51:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 16:09:44 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-14 16:09:44 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-14 19:10:01 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-14 19:10:01 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/Алексей/IMAGINATION/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task32/task3206
+2020-12-14 19:10:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:11:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:11:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:12:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:12:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:13:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:13:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:14:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:14:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:15:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:15:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:16:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:16:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:17:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:17:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:18:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:18:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:19:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:19:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:20:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:20:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:21:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:21:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:22:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:22:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:23:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:23:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:24:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:24:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:25:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:25:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:26:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:26:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:27:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:27:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:28:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:28:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:29:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:29:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:30:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:30:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:31:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:31:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:32:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:32:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:33:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:33:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:34:37 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:34:38 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:35:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:35:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:36:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:36:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:37:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:37:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:38:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:38:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:39:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:39:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:40:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:40:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:41:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:41:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:42:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:42:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:43:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:44:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:45:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:46:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:47:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:48:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:49:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:50:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:51:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:52:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:53:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:54:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:55:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:56:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:57:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:58:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 19:59:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:00:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:01:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:02:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:03:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:04:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:05:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:06:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:07:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:08:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:09:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:10:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:11:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:12:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:13:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:14:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:15:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:16:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:17:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:18:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:19:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:20:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:21:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:22:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:23:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:24:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:25:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:26:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:27:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:28:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:29:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:30:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:31:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:32:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:33:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:34:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:35:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:36:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:37:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:38:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:39:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:40:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:41:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:42:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-14 20:42:17 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-14 20:42:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-14 20:42:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:42:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-14 20:42:47 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-14 20:42:49 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-14 20:43:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:44:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:45:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:46:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-14 20:46:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-14 20:46:24 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-14 20:46:24 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-14 20:46:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:47:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:48:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:49:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:50:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:51:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:52:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:53:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:54:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:55:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:56:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:57:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:58:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 20:59:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:00:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:01:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:02:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:03:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:04:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:05:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:06:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:07:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:08:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:09:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:10:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:11:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:12:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:13:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:14:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:15:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:16:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:17:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:18:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:19:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:20:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:21:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:22:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:23:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:24:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:25:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:26:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:27:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:28:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:29:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:30:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-14 21:30:59 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2020-12-14 21:30:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-14 21:30:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-14 21:31:00 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2020-12-15 21:50:17 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2020-12-15 21:50:17 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.45 ----------
+
+2020-12-15 21:50:17 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2020-12-15 21:50:17 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2020-12-15 21:50:17 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2020-12-15 21:50:17 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2020-12-15 21:50:17 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-12-15 21:50:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-15 21:50:33 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-15 21:50:48 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-15 21:50:48 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/Алексей/IMAGINATION/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task32/task3207
+2020-12-15 21:51:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 21:52:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 21:53:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 21:54:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 21:55:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 21:56:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 21:57:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 21:58:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 21:59:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:00:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-15 22:00:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-15 22:00:03 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-15 22:00:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-15 22:00:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:01:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:02:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:02:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-15 22:02:20 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-15 22:02:48 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-15 22:02:48 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/Алексей/IMAGINATION/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task32/task3208
+2020-12-15 22:03:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:04:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:05:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:06:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:07:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:08:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:09:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:10:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:11:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:12:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:13:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:14:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:15:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:15:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:16:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:16:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:17:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:17:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:18:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:18:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:19:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:19:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:20:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:20:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:21:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:22:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-15 22:22:08 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-15 22:22:11 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-15 22:22:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-15 22:22:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-15 22:22:53 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2020-12-15 22:22:54 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-15 22:22:54 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-15 22:22:54 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2020-12-16 22:57:54 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2020-12-16 22:57:54 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.45 ----------
+
+2020-12-16 22:57:54 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2020-12-16 22:57:54 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2020-12-16 22:57:54 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2020-12-16 22:57:54 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2020-12-16 22:57:54 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-12-16 22:58:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-16 22:59:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-16 23:00:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-16 23:01:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-16 23:02:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-16 23:03:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-16 23:04:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-16 23:05:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-16 23:05:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-16 23:05:55 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-16 23:06:01 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-16 23:06:01 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/Алексей/IMAGINATION/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task22
+2020-12-16 23:06:01 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/Алексей/IMAGINATION/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task22/task2213
+2020-12-16 23:06:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-16 23:07:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-16 23:08:10 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-16 23:08:10 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-16 23:08:11 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-16 23:08:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-16 23:08:23 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2020-12-16 23:08:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-16 23:08:24 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2020-12-17 20:19:53 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2020-12-17 20:19:53 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.45 ----------
+
+2020-12-17 20:19:54 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2020-12-17 20:19:54 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2020-12-17 20:19:54 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2020-12-17 20:19:54 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2020-12-17 20:19:54 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-12-17 20:20:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:21:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-17 20:21:18 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-17 20:21:32 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-17 20:21:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:22:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:22:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-17 20:23:00 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-17 20:23:01 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-17 20:23:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-17 20:23:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-17 20:23:16 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-17 20:23:25 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-17 20:23:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:24:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-17 20:24:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-17 20:24:04 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-17 20:24:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-17 20:24:27 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-17 20:24:27 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-17 20:24:48 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-17 20:24:48 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-17 20:24:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:25:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:26:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:27:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:28:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:29:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:30:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:31:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:32:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:33:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:34:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:35:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:36:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:37:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:38:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:39:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:40:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:41:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:42:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:43:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:44:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:45:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:46:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:47:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:48:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:49:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:50:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:51:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:52:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:53:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:54:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:55:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:56:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:57:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:58:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 20:59:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 21:00:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 21:01:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 21:02:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-17 21:03:33 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2020-12-17 21:03:33 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-17 21:03:33 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-17 21:03:33 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-17 21:03:36 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2020-12-18 19:47:35 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2020-12-18 19:47:35 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.45 ----------
+
+2020-12-18 19:47:35 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2020-12-18 19:47:35 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2020-12-18 19:47:35 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2020-12-18 19:47:35 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2020-12-18 19:47:35 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-12-18 19:48:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 19:49:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 19:50:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 19:51:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 19:52:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 19:53:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 19:54:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 19:55:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 19:56:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 19:57:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 19:58:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 19:59:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:00:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:01:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:02:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:03:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:04:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:05:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:06:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:07:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:08:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:09:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:10:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:11:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:12:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:13:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:14:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:15:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:16:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:17:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:18:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:19:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:20:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:21:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:22:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-18 20:22:33 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-18 20:22:34 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-18 20:22:34 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-18 20:22:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:22:53 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-18 20:22:53 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-18 20:23:22 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-18 20:23:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:24:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:25:27 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-18 20:25:27 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-18 20:25:29 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-18 20:25:29 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-18 20:25:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-18 20:35:52 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2020-12-18 20:35:52 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-18 20:35:53 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-18 20:35:53 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2020-12-19 18:51:12 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2020-12-19 18:51:12 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.45 ----------
+
+2020-12-19 18:51:12 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2020-12-19 18:51:12 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2020-12-19 18:51:12 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2020-12-19 18:51:12 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2020-12-19 18:51:12 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-12-19 18:51:13 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-19 21:10:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-19 21:10:22 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-19 21:10:24 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-19 21:10:27 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-19 21:11:13 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:12:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:13:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:14:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:15:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:15:44 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-19 21:15:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-19 21:15:45 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-19 21:15:46 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-19 21:15:46 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-19 21:16:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:16:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-19 21:16:48 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-19 21:16:51 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-19 21:16:52 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-19 21:17:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:18:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:19:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:20:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:21:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:22:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:22:57 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-19 21:22:58 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-19 21:22:58 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-19 21:22:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-19 21:22:59 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-19 21:23:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:24:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:25:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:26:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:27:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-19 21:27:37 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2020-12-19 21:27:37 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-19 21:27:37 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-19 21:27:37 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-19 21:27:37 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2020-12-20 18:15:43 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2020-12-20 18:15:43 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.45 ----------
+
+2020-12-20 18:15:43 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2020-12-20 18:15:43 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2020-12-20 18:15:43 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2020-12-20 18:15:43 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2020-12-20 18:15:43 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-12-20 18:16:06 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-20 18:16:06 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-20 18:16:16 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-20 18:16:43 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-20 18:17:43 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-20 18:18:43 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-20 18:19:40 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-20 18:19:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-20 18:19:42 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-20 18:19:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-20 18:19:43 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-20 18:20:06 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-20 18:20:06 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-20 18:20:09 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-20 18:20:43 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-20 18:21:09 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-20 18:21:10 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-20 18:21:10 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-20 18:21:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-20 18:21:31 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2020-12-20 18:21:31 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-20 18:21:31 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-20 18:21:31 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2020-12-21 20:34:17 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2020-12-21 20:34:17 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.45 ----------
+
+2020-12-21 20:34:17 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2020-12-21 20:34:17 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2020-12-21 20:34:17 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2020-12-21 20:34:17 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2020-12-21 20:34:17 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-12-21 20:34:19 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-21 22:54:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-21 22:54:48 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-21 22:54:54 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-21 22:54:57 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-21 22:55:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-21 22:56:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-21 22:57:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-21 22:58:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-21 22:58:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-21 22:59:00 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-21 22:59:00 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-21 22:59:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-21 22:59:01 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-21 22:59:09 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-21 22:59:09 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-21 22:59:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-21 22:59:22 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-21 22:59:23 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-21 23:00:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-21 23:01:17 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-21 23:01:24 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-21 23:01:25 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-21 23:01:26 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-21 23:01:26 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-21 23:01:26 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-21 23:01:41 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2020-12-21 23:01:41 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-21 23:01:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-21 23:01:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-21 23:01:42 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2020-12-22 19:47:35 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2020-12-22 19:47:35 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.45 ----------
+
+2020-12-22 19:47:35 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2020-12-22 19:47:36 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2020-12-22 19:47:36 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2020-12-22 19:47:36 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2020-12-22 19:47:36 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-12-22 19:47:36 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-22 19:48:09 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-22 19:48:09 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-22 19:48:16 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-22 19:48:21 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-22 19:48:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 19:49:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 19:50:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 19:51:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 19:52:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 19:53:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 19:54:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 19:55:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 19:56:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 19:57:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 19:58:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 19:59:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:00:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:01:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:02:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:03:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:04:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:05:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:06:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:07:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:08:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:09:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:10:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:10:41 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-22 20:10:41 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-22 20:10:53 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-22 20:10:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-22 20:10:54 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-22 20:10:55 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-22 20:10:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-22 20:10:55 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-22 20:11:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-22 20:11:03 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-22 20:11:27 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-22 20:11:27 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-22 20:11:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:12:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:13:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:14:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:15:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:16:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:17:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:18:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:19:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:20:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:21:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:22:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:23:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:24:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:25:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:26:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:27:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:28:05 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-22 20:28:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-22 20:28:06 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-22 20:28:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-22 20:28:07 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-22 20:28:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:29:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:30:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:31:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:32:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:33:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:34:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:35:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:36:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:37:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:38:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:39:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:40:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:41:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:42:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:43:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:44:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:45:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:46:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:47:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:48:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:49:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:50:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:51:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:52:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:53:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:54:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:55:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:56:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:57:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:58:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 20:59:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:00:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:01:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:02:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:03:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:04:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:05:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:06:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:07:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:08:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:09:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:10:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:11:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:12:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:13:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:14:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:15:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:16:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:17:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:18:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:19:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:20:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:21:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:22:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:23:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:24:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:25:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:26:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:27:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:28:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:29:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:30:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:31:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:32:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:33:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:34:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:35:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:36:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:37:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:38:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:39:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:40:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:41:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:42:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:43:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:44:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:45:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:46:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:47:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:48:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:49:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:50:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:51:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:52:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:53:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:54:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:55:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:56:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:57:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:58:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 21:59:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:00:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:01:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:02:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:03:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:04:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:05:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:06:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:07:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:08:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:09:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:10:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:11:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:12:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:13:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:14:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:15:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:16:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:17:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:18:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:19:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:20:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:21:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:22:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:23:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:24:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:25:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:26:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:27:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:28:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:29:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:30:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:31:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:32:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:33:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:34:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:35:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:36:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:37:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:38:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:39:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:40:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:41:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:42:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:43:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:44:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:45:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:46:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:47:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:48:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:49:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:50:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:51:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:52:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:53:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:54:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:55:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:56:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:57:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:58:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 22:59:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:00:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:01:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:02:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:03:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:04:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:05:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:06:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:07:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:08:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:09:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:10:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:11:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:12:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:13:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:14:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:15:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:16:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:17:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:18:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:19:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:20:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:21:36 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-22 23:21:48 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2020-12-22 23:21:48 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-22 23:21:48 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-22 23:21:48 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-22 23:21:49 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2020-12-23 21:32:14 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2020-12-23 21:32:14 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.45 ----------
+
+2020-12-23 21:32:14 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2020-12-23 21:32:14 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2020-12-23 21:32:14 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2020-12-23 21:32:14 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2020-12-23 21:32:14 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-12-23 21:32:15 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-23 21:33:09 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-23 21:33:09 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-23 21:33:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:33:19 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-23 21:33:27 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-23 21:34:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:35:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:36:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:37:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:38:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:39:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:40:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:41:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:42:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:43:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:44:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:45:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:46:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:47:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:48:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:49:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:50:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:51:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:52:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:53:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:54:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:55:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:56:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:57:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:58:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 21:59:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:00:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:01:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:02:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:03:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:04:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:05:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:06:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:07:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:08:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:09:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:10:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:11:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:12:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:13:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:14:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:15:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:16:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:17:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:18:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:19:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:20:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:21:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:22:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:23:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:24:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:25:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:26:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:27:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:28:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:29:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:30:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:31:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:32:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:33:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:34:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:35:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:36:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:37:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:38:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:39:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:40:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:41:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:42:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:43:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:44:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:45:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:46:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:47:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:48:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:49:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:50:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:51:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:52:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:53:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:54:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:55:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:56:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:57:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:58:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 22:59:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:00:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:00:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-23 23:00:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-23 23:00:22 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-23 23:00:23 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-23 23:01:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:02:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:03:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:04:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:04:37 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-23 23:04:37 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-23 23:05:07 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-23 23:05:08 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-23 23:05:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:06:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:07:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:07:53 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-23 23:07:53 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-23 23:07:59 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-23 23:08:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:08:16 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-23 23:08:16 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/Алексей/IMAGINATION/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task33
+2020-12-23 23:08:16 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/Алексей/IMAGINATION/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task33/task3302
+2020-12-23 23:08:17 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-23 23:09:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:10:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:11:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:12:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:13:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:14:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:15:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:16:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:17:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:18:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:19:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:20:05 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-23 23:20:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-23 23:20:06 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-23 23:20:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-23 23:20:06 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-23 23:20:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-23 23:20:36 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2020-12-23 23:20:36 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2020-12-23 23:20:36 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-23 23:20:36 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-23 23:20:37 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2020-12-24 21:24:33 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2020-12-24 21:24:33 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.45 ----------
+
+2020-12-24 21:24:34 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2020-12-24 21:24:34 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2020-12-24 21:24:34 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2020-12-24 21:24:34 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2020-12-24 21:24:34 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-12-24 21:25:09 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-24 21:25:10 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-24 21:25:35 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-24 21:25:35 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/Алексей/IMAGINATION/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task33/task3301
+2020-12-24 21:26:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:27:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:28:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:29:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:30:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:31:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:32:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:33:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:34:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:34:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-24 21:34:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-24 21:34:39 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-24 21:34:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-24 21:34:53 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-24 21:34:53 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-24 21:35:08 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-24 21:35:08 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/Алексей/IMAGINATION/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task33/task3303
+2020-12-24 21:35:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:36:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:37:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:37:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:38:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:38:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:39:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:39:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:40:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:40:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:41:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:41:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:42:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:42:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:42:51 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-24 21:42:52 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-24 21:43:22 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-24 21:43:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:43:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:44:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-24 21:44:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-24 21:44:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:44:51 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-24 21:45:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:46:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:47:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:48:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-24 21:49:05 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-24 21:49:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-24 21:49:09 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-24 21:49:09 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-24 21:49:22 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2020-12-24 21:49:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-24 21:49:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-24 21:49:23 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2020-12-25 21:37:46 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2020-12-25 21:37:46 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.45 ----------
+
+2020-12-25 21:37:46 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2020-12-25 21:37:46 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2020-12-25 21:37:46 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2020-12-25 21:37:46 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2020-12-25 21:37:46 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-12-25 21:38:25 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-25 21:38:25 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-25 21:38:41 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-25 21:38:41 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/Алексей/IMAGINATION/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task33/task3304
+2020-12-25 21:38:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:39:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:40:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:41:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:42:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:43:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:44:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:45:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:46:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:47:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:48:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:49:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:50:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:51:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:52:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:53:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:54:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:55:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:56:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:57:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:58:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 21:59:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:00:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:01:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:02:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:03:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:04:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:05:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:06:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:07:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:08:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:09:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:10:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:11:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:12:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:13:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:14:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:15:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:16:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:17:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:18:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:19:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:20:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:21:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-25 22:21:20 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-25 22:21:22 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-25 22:21:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:22:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:23:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:24:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:25:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:26:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:27:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:28:47 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:29:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-25 22:29:00 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-25 22:29:02 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-25 22:29:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:30:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:31:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:32:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:33:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:34:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:35:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:36:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:37:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:38:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:39:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:40:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:41:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:42:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:43:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:44:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:45:22 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-25 22:45:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-25 22:45:24 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-25 22:45:24 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-25 22:45:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:46:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:47:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:48:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:49:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:50:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:51:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:52:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:53:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:54:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:55:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:56:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:57:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-25 22:57:19 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-25 22:57:28 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-25 22:57:28 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/Алексей/IMAGINATION/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task33/task3305
+2020-12-25 22:57:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:58:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 22:59:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:00:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:01:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:02:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:03:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:04:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:05:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:06:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:07:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:08:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:09:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:10:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:11:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:12:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:13:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:14:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:15:46 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-25 23:15:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-25 23:15:56 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-25 23:15:57 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-25 23:15:57 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-25 23:16:12 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2020-12-25 23:16:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-25 23:16:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-25 23:16:12 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2020-12-26 21:56:01 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2020-12-26 21:56:01 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.45 ----------
+
+2020-12-26 21:56:01 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2020-12-26 21:56:01 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2020-12-26 21:56:01 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2020-12-26 21:56:01 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2020-12-26 21:56:01 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-12-26 22:50:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-26 22:50:01 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-26 22:50:31 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-26 22:50:31 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/Алексей/IMAGINATION/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task33/task3311
+2020-12-26 22:51:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 22:52:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 22:53:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 22:54:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 22:55:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 22:56:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 22:57:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 22:58:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 22:59:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:00:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:01:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:02:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:03:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:03:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-26 23:03:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-26 23:04:00 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-26 23:04:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-26 23:04:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:05:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:06:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:07:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:08:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:08:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-26 23:08:29 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-12-26 23:09:12 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-12-26 23:09:12 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/Алексей/IMAGINATION/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task33/task3312
+2020-12-26 23:10:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:11:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:12:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:13:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:14:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:14:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-26 23:14:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-26 23:14:05 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-26 23:14:53 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-26 23:14:53 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-26 23:14:54 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-26 23:15:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:16:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:16:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-12-26 23:16:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-26 23:16:22 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-12-26 23:16:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-12-26 23:17:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:18:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:19:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:20:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:21:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:22:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-12-26 23:23:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
