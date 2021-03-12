@@ -7,7 +7,7 @@ public class FigureFactory {
     /**
      * Набор из шести шаблонов для фигурок
      */
-    public static final int[][][] BRICKS = {  {
+    public static final int[][][] BRICKS = {{
             {1, 1, 0},                          //   X X
             {0, 1, 1},                          //     X X
             {0, 0, 0}}, {                       //

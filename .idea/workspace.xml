@@ -13,8 +13,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -46,11 +48,11 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last.edited.regexp" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Development/Senla2/aliaksei_vazdusevich" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GitHub/senla-online-courses/task-3/2" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -58,11 +60,20 @@
     <option name="enabled" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javarush.task.task38.task3811" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Алексей\IMAGINATION\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task37\task3702\female" />
       <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Алексей\IMAGINATION\JavaRushTasks\4.JavaCollections" />
+      <recent name="D:\Алексей\IMAGINATION\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task28\task2810" />
+      <recent name="D:\Алексей\IMAGINATION\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task34\task3412" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Tetris">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -375,9 +386,18 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <configuration name="SnakeGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.games.snake.SnakeGame" />
+      <module name="8.Games" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3312.Solution" />
-      <module name="4.JavaCollections" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task21.task2103.Solution" />
+      <module name="3.JavaMultithreading" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -385,25 +405,16 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3313.Solution" />
-      <module name="4.JavaCollections" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task21.task2102.Solution" />
+      <module name="3.JavaMultithreading" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3305.Solution" />
-      <module name="4.JavaCollections" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3311.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task39.task3902.Solution" />
       <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -412,16 +423,7 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task31.task3101.Solution" />
-      <module name="4.JavaCollections" />
-      <option name="PROGRAM_PARAMETERS" value="D:\Алексей\TestFolder\TestFolder1 D:\Алексей\TestFolder\file.txt" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tetris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task22.task2213.Tetris" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task39.task3909.Solution" />
       <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -496,20 +498,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution (5)" />
-      <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Solution (2)" />
-      <item itemvalue="Application.Tetris" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tetris" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.SnakeGame" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -583,6 +578,31 @@
           <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2025/ArmstrongNumbers.java</url>
           <line>34</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/Solution.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/Solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3714/Solution.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3706/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task39/task3909/Solution.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2026/Solution.java</url>
