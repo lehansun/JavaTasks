@@ -53,15 +53,9 @@ public class MinesweeperGame extends Game {
         List<GameObject> result = new ArrayList<>();
         for (int y = gameObject.y - 1; y <= gameObject.y + 1; y++) {
             for (int x = gameObject.x - 1; x <= gameObject.x + 1; x++) {
-                if (y < 0 || y >= SIDE) {
-                    continue;
-                }
-                if (x < 0 || x >= SIDE) {
-                    continue;
-                }
-                if (gameField[y][x] == gameObject) {
-                    continue;
-                }
+                if (y < 0 || y >= SIDE) continue;
+                if (x < 0 || x >= SIDE) continue;
+                if (gameField[y][x] == gameObject) continue;
                 result.add(gameField[y][x]);
             }
         }

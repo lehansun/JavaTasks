@@ -46,10 +46,10 @@ public class Solution {
                 || first.length() == second.length() + 1;
     }
 
-    private static boolean compare(String smaller, String large) {
-        for (int i = 0; i < large.length(); i++) {
-            String s = new StringBuilder(large).deleteCharAt(i).toString();
-            if (s.equals(smaller)) return true;
+    private static boolean compare(String smallerStr, String largeStr) {
+        for (int i = 0; i < largeStr.length(); i++) {
+            String s = new StringBuilder(largeStr).deleteCharAt(i).toString();
+            if (s.equals(smallerStr)) return true;
         }
         return false;
     }
